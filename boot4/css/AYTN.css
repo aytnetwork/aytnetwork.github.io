@@ -31,7 +31,9 @@ a {
    border-color: lime;
    padding:4px;
  }
-.abt {color: white;}
+.abt {color: white;
+      background-color: #000000de;}
+
 .md_4_head2{
   color: ;
   font-weight: ;
