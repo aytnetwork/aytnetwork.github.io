@@ -1,5 +1,7 @@
 body {padding-top: 200px;
       font-weight: bold;
+      background-color:white;
+      color: black;
       background-image: url("../../images/ng/Coconut_Beach.jpg");
 }
 nav{
@@ -9,7 +11,7 @@ nav{
 
 }
 .navbar a{
-  color: green;
+  color: black;
   font-weight: 1200px;
 }
 a {
