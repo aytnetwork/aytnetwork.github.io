@@ -1,7 +1,7 @@
 body {padding-top: 200px;
       font-weight: bold;
-      background-color:white;
-      color: black;
+      background-color:black;
+      color: White;
       background-image: url("../../images/ng/Coconut_Beach.jpg");
 }
 nav{
@@ -11,19 +11,20 @@ nav{
 
 }
 .navbar a{
-  color: black;
+  color: White;
+  background-color: black;
   font-weight: 1200px;
 }
 a {
-  visited:grey;
+  visited:blue;
 }
 .jumbotron{
   text-align: center;
 }
  .dropdown-item{
-   color:green;
+   color:whitesmoke;
  }
-.foot {   background-color: #dee2e687;
+.foot {   background-color: black;
        padding: 30px 130px 5px 150px;
        margin: 5 0 2 0;
        border: 1px solid;
@@ -32,18 +33,19 @@ a {
    border: 2px solid;
    border-color: lime;
    padding:4px;
+   background-color: black;
  }
 .abt {color: white;
-      background-color: #000000de;}
+      background-color: black;}
 
 .md_4_head2{
   color: ;
   font-weight: ;
-    background-color: #dee2e687;
+    background-color: black;
 }
 .btn-secondary {
     color: #fff;
     background-color: #007bff;
     border-color: #6c757d;
 }
-span.navbar-toggler-icon {background-color: #ffc107f5;}
+span.navbar-toggler-icon {background-color: black;}
