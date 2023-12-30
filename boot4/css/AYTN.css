@@ -2,7 +2,7 @@ body {padding-top: 200px;
       font-weight: bold;
       background-color:black;
       color: White;
-      background-image: url("../../images/ng/Coconut_Beach.jpg");
+      background-image: ;
 }
 nav{
   background-image: url("../../images/ng/awhum_waterfalls.jpg");
@@ -49,3 +49,8 @@ a {
     border-color: #6c757d;
 }
 span.navbar-toggler-icon {background-color: black;}
+
+#tablemt { width: 600px; height: 500px;}
+#Serengeti {width: 600px; height: 500px;}
+#Djemaa { width: 600px; height: 500px;}
+#aburi { width: 600px; height: 500px;}
