@@ -24,6 +24,10 @@ a {
  .dropdown-item{
    color:whitesmoke;
  }
+ .dropdown-menu {
+   max-height: 100px;
+   overflow-y: scroll;
+ }
 .foot {   background-color: black;
        padding: 30px 130px 5px 150px;
        margin: 5 0 2 0;
