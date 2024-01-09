@@ -1,4 +1,4 @@
-body {padding-top: 200px;
+body {padding-top: 150px;
       font-weight: bold;
       background-color:black;
       color: White;
@@ -30,7 +30,7 @@ a {
  }
 .foot {   background-color: black;
        padding: 30px 130px 5px 150px;
-       margin: 5 0 2 0;
+       margin: 2 0 2 0;
        border: 1px solid;
        }
  .box {
@@ -42,15 +42,15 @@ a {
 .abt {color: white;
       background-color: black;}
 
-.md_4_head2{
+.md_6_head2{
   color: ;
   font-weight: ;
     background-color: black;
 }
 .btn-secondary {
-    color: #fff;
-    background-color: #007bff;
-    border-color: #6c757d;
+    color: white;
+    background-color: green;
+    border-color: whitesmoke;
 }
 span.navbar-toggler-icon {background-color: black;}
 
@@ -58,13 +58,13 @@ span.navbar-toggler-icon {background-color: black;}
 padding: 0 -10 0 10 ;
 border: 0; }
 #aytlogo { width:80px; height: 80px;}
-#tablemt { width: 600px; height: 500px;}
-#Serengeti {width: 600px; height: 500px;}
-#jemaa { width: 600px; height: 500px;}
-#manovo { width: 600px; height: 500px;}
-#NubiaArt { width: 600px; height: 500px;}
-#bojo { width: 600px; height: 500px;}
-#rwenz { width: 600px; height: 500px;}
-#nubiaday { width: 600px; height: 500px;}
+#tablemt { width: 600px; height: 400px;}
+#Serengeti {width: 600px; height: 400px;}
+#jemaa { width: 600px; height: 400px;}
+#manovo { width: 600px; height: 400px;}
+#NubiaArt { width: 600px; height: 400px;}
+#bojo { width: 600px; height: 400px;}
+#rwenz { width: 600px; height: 400px;}
+#nubiaday { width: 600px; height: 400px;}
 #Osogbo { width: 600px; height: 500px;}
-#vfalls { width: 600px; height: 500px;}
+#vfalls { width: 600px; height: 400px;}
