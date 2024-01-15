@@ -15,6 +15,8 @@ nav{
   background-color: black;
   font-weight: 1200px;
 }
+
+.navbar-toggler { background-color: red;}
 a {
   visited:blue;
 }
@@ -66,5 +68,5 @@ border: 0; }
 #bojo { width: 600px; height: 400px;}
 #rwenz { width: 600px; height: 400px;}
 #nubiaday { width: 600px; height: 400px;}
-#Osogbo { width: 600px; height: 500px;}
+#Osogbo { width: 600px; height: 400px;}
 #vfalls { width: 600px; height: 400px;}

@@ -9,7 +9,9 @@ body {
   font-weight: 800px;
   background-color: wheat;
 }
-nav {background-image:url("../../images/ng/ibech.jpg");}
+.navbar {background-image:url("../../images/ng/ibech.jpg");
+background-color: green;
+}
 .foot{
   color: black;
   background-color: #f5f5f5c7;
@@ -115,6 +117,16 @@ color: yellow;}
 
 @media (prefers-reduced-motion) {
    .carousel {no-preference; } }
+
+.navbar-toggler { background-color: green;}
+
+.reserv {
+  background-color: green;
+}
+
+#navng{
+  background-color: green;
+}
 #boo{
   background-image: url("../Nok.jpg");
 }
