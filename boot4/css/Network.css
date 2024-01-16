@@ -1,11 +1,28 @@
 body {
     font-family: Arial, sans-serif;
+    padding-top: 150px;
+    font-weight: bold;
+    background-color:black;
+    color: White;
 }
-
+nav{
+  background-image: url("../../images/ng/awhum_waterfalls.jpg");
+}
 #feed {
     max-width: 600px;
     margin: 20px auto;
 }
+#aytlogo { width:80px; height: 80px;}
+
+.dropdown-menu {
+  max-height: 50px;
+  overflow-y: scroll;}
+
+  .navbar a{
+    color: White;
+    background-color: black;
+    font-weight: 1200px;
+  }
 
 .story, .post {
     border: 1px solid #ccc;
