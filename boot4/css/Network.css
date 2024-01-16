@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#feed {
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+.story, .post {
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.story img, .post img, .post video {
+    max-width: 100%;
+    height: auto;
+}
+
+.story span {
+    display: block;
+    font-weight: bold;
+    margin-top: 5px;
+    cursor: pointer;
+}
