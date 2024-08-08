@@ -1,7 +1,7 @@
 body {padding-top: 150px;
       font-weight: bold;
       background-color:black;
-      color: White;
+      color: brown;
       background-image: ;
 }
 nav{
@@ -16,7 +16,9 @@ nav{
   font-weight: 1200px;
 }
 
-.navbar-toggler { background-color: red;}
+.navbar-toggler {
+   color: brown;
+   background-color: black;}
 a {
   visited:blue;
 }
@@ -37,17 +39,23 @@ a {
        }
  .box {
    border: 2px solid;
-   border-color: lime;
+   border-color: ;
    padding:4px;
    background-color: black;
  }
-.abt {color: white;
-      background-color: black;}
+
+.rabt {color: white;
+      background-color: green;
+    border-radius: 2px solid;
+  margin: 20px;}
 
 .md_6_head2{
-  color: ;
+  color: brown ;
   font-weight: ;
-    background-color: black;
+    background-color: green;
+}
+.col-md-6 {
+  background: linear-gradient(45deg, lime, yellow, transparent);
 }
 .btn-secondary {
     color: white;
@@ -55,7 +63,13 @@ a {
     border-color: whitesmoke;
 }
 span.navbar-toggler-icon {background-color: black;}
-
+h1.display-3 {
+      padding: 20px;
+}
+#welcome {
+  margin-top: 30px;
+  border-radius: 120px;
+}
 #myCarousel { width: auto; height: auto;
 padding: 0 -10 0 10 ;
 border: 0; }
